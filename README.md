@@ -1,4 +1,4 @@
-# Grupo:
+## Grupo:
 ### Rate It
 
 ## Integrantes:
